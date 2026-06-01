@@ -1,23 +1,92 @@
-MIT License
+<body>
+        
+    <div class="bloco1">
 
-Copyright (c) 2026 lararibeiropedro-web
+        <div style="font-size: 25px;">Meu Projeto de Tecnologia</div>
+        <div class="caixa-meio">
+            <p>O milho vira bioplástico e depois vira música!</p>
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+            <div id="btn1" onclick="alert('Incrível, né?')">CLIQUE AQUI</div>
+        </div>
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+       </style>
+    </head>
+    <body>
+        
+        <div class="bloco1">
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+            <div style="font-size: 25px;">Meu Projeto de Tecnologia</div>
+            <div class="caixa-meio">
+                <p>O milho vira bioplástico e depois vira música!</p>
 
+                <div id="btn1" onclick="alert('Incrível, né?')">CLIQUE AQUI</div>
+            </div>
 
+            <div class="texto1">Criado por mim</div>
+        </div>
+
+        <script>
+            // MANDA UMA MENSAGEM PARA O CONSOLE DO DESENVOLVEDOR
+            console.log("O site abriu."); // REGISTRA O LOG DE ABERTURA
+        </script>
+  <body>
+        
+    <div class="bloco1">
+
+        <div style="font-size: 25px;">Meu Projeto de Tecnologia</div>
+        <div class="caixa-meio">
+            <p>O milho vira bioplástico e depois vira música!</p>
+
+            <div id="btn1" onclick="alert('Incrível, né?')">CLIQUE AQUI</div>
+        </div>
+
+        <div class="texto1">Criado por mim</div>
+    </div>
+
+    <script>
+        // MANDA UMA MENSAGEM PARA O CONSOLE DO DESENVOLVEDOR
+        console.log("O site abriu."); // REGISTRA O LOG DE ABERTURA
+    </script>
+</body><!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sustentabilidade | Agrinho</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <h1>Do milho à música.</h1>
+    </header>
+
+    <main class="conteudo-principal">
+        <section class="card-informativo">
+            <p>Você sabia que milho pode virar bioplástico e se transformar em instrumentos musicais?</p>
+            <button id="btnInterativo" class="btn-primario">Saiba Mais</button>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>&copy; Desenvolvido por Júlia.</p>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
+</html><body>
+    <header class="cabecalho">
+        <h1>Do milho à música.</h1>
+    </header>
+
+    <main class="conteudo-principal">
+        <section class="card-informativo">
+            <p>Você sabia que milho pode virar bioplástico e se transformar em instrumentos musicais?</p>
+            <button id="btnInterativo" class="btn-primario">Saiba Mais</button>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>&copy; Desenvolvido por Júlia.</p>
+    </footer>
+
+    <script src="script.js" defer></script>
+</body>
